@@ -1,11 +1,10 @@
 //import "./App.css";
-import Button from '@mui/material/Button';
-import SearchBox from './SearchBox';
+import WeatherApp from "./WeatherApp";
 function App() {
   return (
     <div>
-      <h1>Weather App</h1>
-      <SearchBox />
+      
+      <WeatherApp />
       </div>
   );
 }
